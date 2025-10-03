@@ -1,2 +1,2 @@
 # RIME_dict-of-UESTC
-电子科大的RIME词库
+RIME词库，收录了电子科大的相关词汇
